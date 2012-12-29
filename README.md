@@ -1,5 +1,6 @@
 <h1>[Google Chrome Extension] fbPUMS: Irritating Ad. Hider</h1>
 
+<h2>LICENCE AGREEMENT</h2>
 This is the first Chrome Extension I have ever written. I have made this extenstion OpenSource so that everyone can contribute when ever they feel like.
 
 <h2>BACKGROUND:</h2>
