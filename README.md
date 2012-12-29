@@ -1,4 +1,6 @@
 <h1>[Google Chrome Extension] fbPUMS: Irritating Ad. Hider</h1>
+Social networking sites has a lot of possitive side, no one can ignore that but like everything else it is also not far away from the nasty claw of bad people who uploads pornographic and various other spams as ad. and thousands of fake profile come up on the slider of "People you may know" section. Most of the time this is irrtating. It misguides us. It hampers in our concentration.This extension is going to hide all those spams from the facebook slider.This is the first Chrome Extension I have ever written. I have made this extenstion OpenSource so that everyone can contribute when ever they feel like.I have used javascript and json to write this extension
+
 
 <h2>LICENCE AGREEMENT</h2>
 This is the first Chrome Extension I have ever written. I have made this extenstion OpenSource so that everyone can contribute when ever they feel like.
