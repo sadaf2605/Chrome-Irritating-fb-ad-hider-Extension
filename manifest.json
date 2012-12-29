@@ -1,0 +1,32 @@
+{
+  "name": "Facebook PUMS: Irritating ad. hider!",
+  "version": "1.0",
+  "description": "It hides irritating people you may know and ads of the slide bar of facebook.",
+  "background": { "scripts": ["background.js"] },
+  "page_action" :
+  {
+    "default_icon" : "img.png",
+    "default_title" : "Facebook PUMS: Ad. hider!"
+  },
+  "permissions" : [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "icons" : {
+    "48" : "img48.png",
+    "128" : "img128.png"
+  },
+"content_scripts": [
+        {
+            "matches":
+                ["http://*.facebook.com/*"],
+            "run_at": "document_end",
+            "js": ["background.js"],
+            "all_frames": true
+        }
+    ],
+"web_accessible_resources": [
+        "demo.js"
+    ],
+  "update_url": "http://sadaf2605.appspot.com/chromeextensions/fbPUMS/updates.xml",
+  "manifest_version": 2
+}
